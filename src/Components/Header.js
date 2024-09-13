@@ -34,7 +34,8 @@ function Header() {
                         </h4>
                         <h1 className="header-title f-xmaj fadeIn wow" data-wow-delay="1s">X-MAJ</h1>
                         <div className="brand-subtitle fadeIn wow" data-wow-delay="1.5s">Xavier Moisés Alberto José</div>
-                        <h6 className="header-mono fadeInLeft wow" data-wow-delay="2.2s">Desenvolvidor | Frond end / Back end & Designer</h6>
+                        <h5 className="header-mono fadeInLeft wow" data-wow-delay="2.2s">Desenvolvidor</h5>
+                        <h6 className="header-mono fadeInLeft wow" data-wow-delay="2.3s">Front End & Back End</h6>
                         <span>Visita meu</span>
                         <br/>
                         <span className="w3-margin-top">
